@@ -1,0 +1,13 @@
+Superstore Power Query Transformations
+
+1. Removed Row ID and Postal Code.
+2. Renamed columns for readability.
+3. Replaced null Profit values with 0.
+4. Converted datatypes (Sales/Profit → Decimal, Dates → Date).
+5. Created Profit Status conditional column.
+6. Created Sales Band conditional column.
+7. Validated totals after transformation.
+8. Loaded clean model into Power BI.
+
+Result:
+Prepared analytical dataset for executive dashboard reporting.
